@@ -4,7 +4,7 @@
 // @namespace      http://blog.champierre.com
 // @include        http://www.amazon.*
 // @require        http://svn.coderepos.org/share/lang/javascript/userscripts/GM_Libs/noriaki/UpdateChecker/UC-20080823.js
-// @version        1.98
+// @version        2.01
 // ==/UserScript==
 
 console.log('test');
