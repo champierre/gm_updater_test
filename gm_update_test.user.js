@@ -3,7 +3,7 @@
 // @description    gm_update_test
 // @namespace      http://blog.champierre.com
 // @include        http://www.amazon.*
-// @require        http://svn.coderepos.org/share/lang/javascript/userscripts/GM_Libs/noriaki/UpdateChecker/UC-20080823.js  
+// @require        http://svn.coderepos.org/share/lang/javascript/userscripts/GM_Libs/noriaki/UpdateChecker/UC-20080823.js
 // @version        1.97
 // ==/UserScript==
 
